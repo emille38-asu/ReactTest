@@ -1,0 +1,25 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "Testing Full-Stack Deployment",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.24",
+    "aws-amplify": "^3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emille38-asu/ReactTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emille38-asu/ReactTest/issues"
+  },
+  "homepage": "https://github.com/emille38-asu/ReactTest#readme"
+}
